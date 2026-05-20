@@ -2,6 +2,7 @@
 
 Colab link - https://colab.research.google.com/drive/1ljm7MkA4Vls8PQU-N4Z5Jb_Kaq_zYt6q?usp=sharing
 
+Drive Link - https://drive.google.com/drive/folders/1i1obcnBEkExeOx4KUzh_bhYGW0fANzWX?usp=sharing
 
 GUIDE QUESTION
 
